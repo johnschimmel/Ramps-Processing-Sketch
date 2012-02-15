@@ -1,0 +1,10 @@
+Use this Processing Sketch with the Ramps Arduino code
+
+Runs well with Processing 1.5.1 - does not work with Processing 2.0
+
+To add music.
+- Put MP3 files in the /data folder.
+- Update the song1 and song2 variables inside rampsScratch.pde
+- Connect Arduino OR if no Arduino you can use the Arrow keys.
+- Run.
+- Scratch.
